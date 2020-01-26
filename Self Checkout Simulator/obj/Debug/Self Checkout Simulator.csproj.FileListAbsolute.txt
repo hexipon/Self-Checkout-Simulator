@@ -1,0 +1,47 @@
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME5\3\b8019133\MyWork\SYSMOD Task 2 and 3\SHUpermarket\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe.config
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME5\3\b8019133\MyWork\SYSMOD Task 2 and 3\SHUpermarket\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME5\3\b8019133\MyWork\SYSMOD Task 2 and 3\SHUpermarket\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.pdb
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME5\3\b8019133\MyWork\SYSMOD Task 2 and 3\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csprojAssemblyReference.cache
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME5\3\b8019133\MyWork\SYSMOD Task 2 and 3\SHUpermarket\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.UserInterface.resources
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME5\3\b8019133\MyWork\SYSMOD Task 2 and 3\SHUpermarket\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.Properties.Resources.resources
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME5\3\b8019133\MyWork\SYSMOD Task 2 and 3\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.GenerateResource.cache
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME5\3\b8019133\MyWork\SYSMOD Task 2 and 3\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.CoreCompileInputs.cache
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME5\3\b8019133\MyWork\SYSMOD Task 2 and 3\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.exe
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME5\3\b8019133\MyWork\SYSMOD Task 2 and 3\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.pdb
+D:\Libraries\Documents\1. University\Year 1\Systems Modelling\Assignment 2\Sub 2\SHUpermarket\sysmod\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csprojAssemblyReference.cache
+D:\Libraries\Documents\1. University\Year 1\Systems Modelling\Assignment 2\Sub 2\SHUpermarket\sysmod\SHUpermarket\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.UserInterface.resources
+D:\Libraries\Documents\1. University\Year 1\Systems Modelling\Assignment 2\Sub 2\SHUpermarket\sysmod\SHUpermarket\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.Properties.Resources.resources
+D:\Libraries\Documents\1. University\Year 1\Systems Modelling\Assignment 2\Sub 2\SHUpermarket\sysmod\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.GenerateResource.cache
+D:\Libraries\Documents\1. University\Year 1\Systems Modelling\Assignment 2\Sub 2\SHUpermarket\sysmod\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.CoreCompileInputs.cache
+D:\Libraries\Documents\1. University\Year 1\Systems Modelling\Assignment 2\Sub 2\SHUpermarket\sysmod\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.exe
+D:\Libraries\Documents\1. University\Year 1\Systems Modelling\Assignment 2\Sub 2\SHUpermarket\sysmod\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.pdb
+C:\Users\hexip\Documents\sysmod\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csprojAssemblyReference.cache
+C:\Users\hexip\Documents\sysmod\SHUpermarket\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.UserInterface.resources
+C:\Users\hexip\Documents\sysmod\SHUpermarket\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.Properties.Resources.resources
+C:\Users\hexip\Documents\sysmod\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.GenerateResource.cache
+C:\Users\hexip\Documents\sysmod\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.CoreCompileInputs.cache
+C:\Users\hexip\Documents\sysmod\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.exe
+C:\Users\hexip\Documents\sysmod\SHUpermarket\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.pdb
+C:\Users\hexip\Documents\sysmod\SHUpermarket\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe.config
+C:\Users\hexip\Documents\sysmod\SHUpermarket\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe
+C:\Users\hexip\Documents\sysmod\SHUpermarket\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.pdb
+C:\Users\b8019133\Desktop\sysmod\SHUpermarket - Task 3\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe.config
+C:\Users\b8019133\Desktop\sysmod\SHUpermarket - Task 3\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe
+C:\Users\b8019133\Desktop\sysmod\SHUpermarket - Task 3\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.pdb
+C:\Users\b8019133\Desktop\sysmod\SHUpermarket - Task 3\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.UserInterface.resources
+C:\Users\b8019133\Desktop\sysmod\SHUpermarket - Task 3\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.Properties.Resources.resources
+C:\Users\b8019133\Desktop\sysmod\SHUpermarket - Task 3\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.GenerateResource.cache
+C:\Users\b8019133\Desktop\sysmod\SHUpermarket - Task 3\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.CoreCompileInputs.cache
+C:\Users\b8019133\Desktop\sysmod\SHUpermarket - Task 3\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.exe
+C:\Users\b8019133\Desktop\sysmod\SHUpermarket - Task 3\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.pdb
+C:\Users\b8019133\Desktop\sysmod\SHUpermarket - Task 3\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csprojResolveAssemblyReference.cache
+C:\Users\hexip\Documents\Projects\SHUpermarketSelfCheckout\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe.config
+C:\Users\hexip\Documents\Projects\SHUpermarketSelfCheckout\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.exe
+C:\Users\hexip\Documents\Projects\SHUpermarketSelfCheckout\Self Checkout Simulator\bin\Debug\Self Checkout Simulator.pdb
+C:\Users\hexip\Documents\Projects\SHUpermarketSelfCheckout\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csprojAssemblyReference.cache
+C:\Users\hexip\Documents\Projects\SHUpermarketSelfCheckout\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.UserInterface.resources
+C:\Users\hexip\Documents\Projects\SHUpermarketSelfCheckout\Self Checkout Simulator\obj\Debug\Self_Checkout_Simulator.Properties.Resources.resources
+C:\Users\hexip\Documents\Projects\SHUpermarketSelfCheckout\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.GenerateResource.cache
+C:\Users\hexip\Documents\Projects\SHUpermarketSelfCheckout\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.csproj.CoreCompileInputs.cache
+C:\Users\hexip\Documents\Projects\SHUpermarketSelfCheckout\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.exe
+C:\Users\hexip\Documents\Projects\SHUpermarketSelfCheckout\Self Checkout Simulator\obj\Debug\Self Checkout Simulator.pdb
